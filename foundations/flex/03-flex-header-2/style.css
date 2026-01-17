@@ -8,12 +8,6 @@ body {
   font-family: Besley, serif;
 }
 
-/*
-display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-*/
-
 .header {
   display: flex;
   justify-content: space-between;
