@@ -41,6 +41,8 @@ body {
 }
 
 .icon {
+  flex-shrink: 0;
+  /***/
   color: royalblue;
   font-size: 26px;
   font-weight: 700;
@@ -51,7 +53,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-shrink: 0;
 }
 
 .text {
